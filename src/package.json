@@ -1,0 +1,10 @@
+{
+  "name": "rm3prxw88n",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@livechat/customer-sdk": "4.0.1"
+  }
+}
